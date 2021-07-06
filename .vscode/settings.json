@@ -2,7 +2,8 @@
     "editor.fontSize": 16,
     "files.associations": {
         "random": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "ostream": "cpp"
     }
     
 }
